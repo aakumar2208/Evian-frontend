@@ -84,9 +84,3 @@ npm install
 npm start
 ```
 
-## Contributors
-
-- [Akash Gupta](https://github.com/akashgupta1909)
-- [Harsh Gupta](https://github.com/harshgupta1249)
-- [Harshil Mendpara](https://github.com/HarshilMendpara)
-- [Raj Varsani](https://github.com/RajVarsani)
